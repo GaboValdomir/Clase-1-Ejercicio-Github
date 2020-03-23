@@ -17,5 +17,5 @@ Rodriguez Alonzo, Mauro Nicolás (201966)
 Rodriguez Beriao, Federico (228941)
 Ruíz Puppo, Joaquín Esteban (206164)
 Sánchez Barre, Valentín Francisco (203458)
-Valdomir Muslera, Gabriel (191621)
+Valdomir Muslera, Gabriel (191621) -> Usuario GitHub: GaboValdomir
 Williamson Olaso, Guillermo (224813)
